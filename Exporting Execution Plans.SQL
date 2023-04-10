@@ -1,4 +1,8 @@
+/*
+Quelle neue URL: 
+https://www.sqlservercentral.com/articles/exporting-execution-plans-sql-spackle
 -- http://www.sqlservercentral.com/articles/Execution+Plans/103484/
+*/
 
 SELECT TOP 10 
               total_elapsed_time/1000.0 as total_elapsed_time
