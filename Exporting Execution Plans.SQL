@@ -1,6 +1,6 @@
 /*
-Quelle - Neue URL: 
-https://docs.github.com/en/get-started/quickstart/hello-world
+Quelle neue URL: 
+https://www.sqlservercentral.com/articles/exporting-execution-plans-sql-spackle
 -- http://www.sqlservercentral.com/articles/Execution+Plans/103484/
 */
 
