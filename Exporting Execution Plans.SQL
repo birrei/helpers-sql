@@ -1,4 +1,8 @@
+/*
+Quelle - Neue URL: 
+https://docs.github.com/en/get-started/quickstart/hello-world
 -- http://www.sqlservercentral.com/articles/Execution+Plans/103484/
+*/
 
 SELECT TOP 10 
               total_elapsed_time/1000.0 as total_elapsed_time
